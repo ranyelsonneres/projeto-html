@@ -1,0 +1,1 @@
+página do script.js
